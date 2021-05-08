@@ -12,6 +12,8 @@ export default defineConfig({
   // Because of using GitHub Pages
   //base: `/${repo}/`,
   //publicPath: `/${repo}/`,
+  exportStatic: {}, // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
+  scripts:['https://hm.baidu.com/hm.js?cf0f93db26a2fc4826a9869ce2decb05']
   navs: [
     null,
     {
