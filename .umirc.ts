@@ -10,13 +10,13 @@ export default defineConfig({
   mode: 'site',
   hash: true,
   // Because of using GitHub Pages
-  base: `/${repo}/`,
-  publicPath: `/${repo}/`,
+  //base: `/${repo}/`,
+  //publicPath: `/${repo}/`,
   navs: [
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/umijs/dumi-template',
+      path: 'https://github.com/codeaone/oneboot-react',
     },
   ],
   // more config: https://d.umijs.org/config
