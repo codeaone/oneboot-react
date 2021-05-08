@@ -29,7 +29,7 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by self
 ---
 
-## Getting Started
+## Getting Started Test
 
 Create first doc in manual way
 
